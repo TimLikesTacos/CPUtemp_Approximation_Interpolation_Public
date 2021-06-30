@@ -1,5 +1,5 @@
 
-This is an application developed for a school project. Since this project may be used for future use, the source code has been removed from this repository.  If you are not a student performing a similar project and want to see the source code, message me and I can provide.
+This is an application developed for a school project written in Rust. Since this project may be used for future use, the source code has been removed from this repository.  If you are not a student performing a similar project and want to see the source code, message me and I can provide.
 
  
 # CPU Temperature Interpolation and Approximation
